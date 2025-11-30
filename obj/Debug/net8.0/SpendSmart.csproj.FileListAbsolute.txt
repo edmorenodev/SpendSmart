@@ -28,3 +28,9 @@
 /home/eddie/Documents/Software/SpendSmart/obj/Debug/net8.0/SpendSmart.pdb
 /home/eddie/Documents/Software/SpendSmart/obj/Debug/net8.0/SpendSmart.genruntimeconfig.cache
 /home/eddie/Documents/Software/SpendSmart/obj/Debug/net8.0/ref/SpendSmart.dll
+/home/eddie/Documents/Software/SpendSmart/obj/Debug/net8.0/SpendSmart.sourcelink.json
+/home/eddie/Documents/Software/SpendSmart/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/eddie/Documents/Software/SpendSmart/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/eddie/Documents/Software/SpendSmart/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/eddie/Documents/Software/SpendSmart/obj/Debug/net8.0/SpendSmart.csproj.AssemblyReference.cache
+/home/eddie/Documents/Software/SpendSmart/obj/Debug/net8.0/SpendSmart.csproj.CopyComplete
